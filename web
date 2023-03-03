@@ -1,2 +1,146 @@
 http://xaktly.com    # One of the best website to learn fundamentals of mathematics and statistics needed for machine learning
 https://midjourney.com/home/?callbackUrl=%2Fapp%2F                         // to design 
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+Here are some of them that will make you fall in love with Python and its versatility (even more).
+
+PyGWalker: Analyze Pandas dataframe in a tableau-like interface in Jupyter.
+
+Link: https://bit.ly/pyg-walker
+
+Science plots: Make professional matplotlib plots for presentations, research papers, etc.
+
+Link: https://bit.ly/sciplt
+
+CleverCSV: Resolve parsing errors while reading CSV files with Pandas.
+
+Link: https://bit.ly/clv-csv
+
+fastparquet: Speed-up parquet I/O of pandas by 5x.
+
+Link: https://bit.ly/fparquet
+
+Dovpanda: Generate helpful hints as you write your Pandas code.
+
+Link: https://bit.ly/dv-pnda
+
+Drawdata: Draw a 2D dataset of any shape in a notebook by dragging the mouse.
+
+Link: https://bit.ly/data-dr
+
+nbcommands: Search code in Jupyter notebooks easily rather than manually doing it.
+
+Link: https://bit.ly/nb-cmnds
+
+Bottleneck: Speedup NumPy methods 25x. Especially better if array has NaN values.
+
+Link: https://bit.ly/btlneck
+
+multipledispatch: Enable function overloading in python.
+
+Link: https://bit.ly/func-ove
+
+Aquarel: Style matplotlib plots.
+
+Link: https://bit.ly/py-aql
+
+Uniplot: Lightweight plotting in the terminal with Unicode.
+
+Link: https://bit.ly/py-uni
+
+pydbgen: Random pandas dataframe generator.
+
+Link: https://bit.ly/pydbgen
+
+modelstore: Version machine learning models for better tracking.
+
+Link: https://bit.ly/mdl-str
+
+Pigeon: Annotate data with button clicks in Jupyter notebook.
+
+Link: https://bit.ly/py-pgn
+
+Optuna: A framework for faster/better hyperparameter optimization.
+
+Link: https://bit.ly/py-optuna
+
+Pampy: Simple, intuitive and faster pattern matching. Works on numerous data structures.
+
+Link: https://bit.ly/py-pmpy
+
+Typeguard: Enforce type annotations in python.
+
+Link: https://bit.ly/typeguard
+
+KnockKnock: Decorator that notifies upon model training completion.
+
+Link: https://bit.ly/knc-knc
+
+Gradio: Create an elegant UI for ML model.
+
+Link: https://bit.ly/py-grd
+
+Parse: Reverse f-strings by specifying patterns.
+
+Link: https://bit.ly/py-prs
+
+handcalcs - Write and display mathematical equations in Jupyter
+
+Link: https://bit.ly/py-hcals
+
+Osquery: Write SQL-based queries to explore operating system data.
+
+Link: https://bit.ly/py-osqry
+
+D3Blocks: Create and export interactive plots as HTML. (Matplolib/Plotly lose interactivity when exported).
+
+Link: https://bit.ly/py-d3
+
+itables: Show Pandas dataframes as interactive tables.
+
+Link: https://bit.ly/py-itbls
+
+jellyfish: Perform approximate and phonetic string matching.
+
+Link: https://bit.ly/jly-fsh
+
+Hamilton: Create an automatic dataflow graph of python functions.
+
+Link: https://bit.ly/py-hmltn
+
+Folium: Powerful js-powered library for visualizing geospatial data.
+
+Link: https://bit.ly/py-flm
+
+Termcolor: Color formatting for output in terminal/notebook.
+
+Link: https://bit.ly/trmclr
+
+PyDataset: Access many datasets (in DataFrame format) using a single API.
+
+Link: https://bit.ly/py-dataset
+
+Spellchecker: Check if words are spelled correctly.
+
+Link: https://bit.ly/spl-chk
+
+plotapi: Create engaging and elegant visualization (also available as no-code).
+
+Link: https://bit.ly/plt-api
+
+animatplot: Animate matplotlib plots.
+
+Link: https://bit.ly/ani-matplot
+
+HyperTools: A single wrapper for many dimensionality reduction techniques and visualization.
+
+Link: https://bit.ly/hyp-tls
+
+Mercury: Build web apps in Jupyter with python.
+
+Link: https://bit.ly/pymrcry
+
+Lance: A columnar data format optimized for ML workflows and datasets.
+
+Link: https://bit.ly/py-lance
